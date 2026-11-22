@@ -1,0 +1,5 @@
+contrainte,ecart,prix_dual,plage_bas,plage_haut
+Ventes totales,0.0000,3.0000,850.0000,1000.0000
+Demande min. P4,0.0000,-2.0000,275.0000,437.5000
+Matière première,0.0000,1.0000,4450.0000,4850.0000
+Heures de travail,250.0000,0.0000,4675.0000,4750.0000

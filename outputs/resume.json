@@ -1,0 +1,19 @@
+{
+  "benefice_optimal": 6650.0,
+  "plan": {
+    "P1": 0.0,
+    "P2": 400.0,
+    "P3": 150.0,
+    "P4": 400.0
+  },
+  "prix_duaux": {
+    "Ventes totales": 3.0,
+    "Demande min. P4": -2.0,
+    "Matière première": 1.0,
+    "Heures de travail": 0.0
+  },
+  "investissement": {
+    "gain_mensuel": 450.0,
+    "delai_recuperation_ans": 7.3903180111111135
+  }
+}

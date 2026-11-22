@@ -1,0 +1,5 @@
+scenario,profit,x1,x2,x3,x4,prediction_sensibilite
+Matière : 4 500 (−100),6550.0000,0.0000,500.0000,50.0000,400.0000,4 500 dans [4450 ; 4850] : −100 × 1 € = −100 €
+Matière : 4 400 (−200),6400.0000,50.0000,500.0000,0.0000,400.0000,"4 400 < 4450 : hors plage, la perte dépasse 200 €"
+Matière : 4850 (achat de 250 unités),6900.0000,0.0000,150.0000,400.0000,400.0000,jusqu'à 250 unités valorisées 1 € chacune
+Matière : 4900 (au-delà),6900.0000,0.0000,150.0000,400.0000,400.0000,au-delà de la plage : plus aucun gain
